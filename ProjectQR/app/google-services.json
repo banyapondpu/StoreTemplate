@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459748113905",
+    "firebase_url": "https://codenmath-167809.firebaseio.com",
+    "project_id": "codenmath-167809",
+    "storage_bucket": "codenmath-167809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459748113905:android:41f4ac8d3babb99d",
+        "android_client_info": {
+          "package_name": "com.daydev.projectqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459748113905-nqijervt9mcosaccn22atsu16qe4e0so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daydev.projectqr",
+            "certificate_hash": "76bc841f232a88eb576c9c5f1676c9fe36ba65e2"
+          }
+        },
+        {
+          "client_id": "459748113905-3hng20q4edi6gcg6tq5ieve73pilasop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JS0H05nn4Dq4uT5jqfXozc71IWrx-UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459748113905-3hng20q4edi6gcg6tq5ieve73pilasop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633802693586",
+    "firebase_url": "https://enent-4ce62.firebaseio.com",
+    "project_id": "enent-4ce62",
+    "storage_bucket": "enent-4ce62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633802693586:android:162d915b23b31302",
+        "android_client_info": {
+          "package_name": "com.daydev.enent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633802693586-oi9pgba9ac3ir7mk2q2ilovqe25mfh22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daydev.enent",
+            "certificate_hash": "76bc841f232a88eb576c9c5f1676c9fe36ba65e2"
+          }
+        },
+        {
+          "client_id": "633802693586-r98oj4iubiisb61ub7633p30or3qo8ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUYK-bIxS-erZRwIgZDrIlM5bCAutI160"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633802693586-r98oj4iubiisb61ub7633p30or3qo8ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "215120056254",
+    "firebase_url": "https://trueappandroid.firebaseio.com",
+    "project_id": "trueappandroid",
+    "storage_bucket": "trueappandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215120056254:android:8c5434e9e1812cd9",
+        "android_client_info": {
+          "package_name": "com.daydev.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215120056254-1oi606tru773sdl8vfctli43bco381po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daydev.firebase",
+            "certificate_hash": "76bc841f232a88eb576c9c5f1676c9fe36ba65e2"
+          }
+        },
+        {
+          "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYaXPVtY1dg-KOJXQU_YiFHpjtRuFFsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215120056254:android:29197fdff5c953da",
+        "android_client_info": {
+          "package_name": "com.daydev.ledcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215120056254-r2clur1me2nm5ujkivh5as3ls75bnpr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daydev.ledcontrol",
+            "certificate_hash": "592e4c5dd4c239029f95d290afe97fb2e7773b38"
+          }
+        },
+        {
+          "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYaXPVtY1dg-KOJXQU_YiFHpjtRuFFsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215120056254:android:54dcd13c4eee74ba",
+        "android_client_info": {
+          "package_name": "com.daydev.storetemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215120056254-ei69vnba2tk5tb3d6hdmr9m2htbbjg27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daydev.storetemplate",
+            "certificate_hash": "76bc841f232a88eb576c9c5f1676c9fe36ba65e2"
+          }
+        },
+        {
+          "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYaXPVtY1dg-KOJXQU_YiFHpjtRuFFsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215120056254:android:47e36fb0d73d0d5f",
+        "android_client_info": {
+          "package_name": "com.daydev.vrbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYaXPVtY1dg-KOJXQU_YiFHpjtRuFFsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215120056254:android:fc4658d7f8c8d05d",
+        "android_client_info": {
+          "package_name": "com.example.lab6802.ashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYaXPVtY1dg-KOJXQU_YiFHpjtRuFFsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215120056254:android:8c41286a3c709574",
+        "android_client_info": {
+          "package_name": "com.example.lab6802.storagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215120056254-90v7i0i1ed36tr32m1gq536n3o3fc96u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab6802.storagefirebase",
+            "certificate_hash": "6a0bff9cdf28f8229a434aedc3872e5d430cc280"
+          }
+        },
+        {
+          "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYaXPVtY1dg-KOJXQU_YiFHpjtRuFFsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215120056254-54i4gj2ds0rcus9br6cl204e6ko2bt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
